@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "206389802391",
+    "firebase_url": "https://goerrands-28a60-default-rtdb.firebaseio.com",
+    "project_id": "goerrands-28a60",
+    "storage_bucket": "goerrands-28a60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206389802391:android:472f3818a7cda50c7740d2",
+        "android_client_info": {
+          "package_name": "io.goerrand.goerrand_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206389802391-mn8r0b0lin02s73q140t1hvgjp19oua3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBshZs1me0iz9Y8NTeAd9lgWjWaXYg3x5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206389802391-mn8r0b0lin02s73q140t1hvgjp19oua3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
